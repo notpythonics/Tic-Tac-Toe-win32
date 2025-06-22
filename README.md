@@ -1,6 +1,6 @@
 ## Tic-Tac-Toe-win32
 
-A tic-tac-toe game written in C++ using the Widnows API, using the GDI API.
+A tic-tac-toe game written in C++ using the Windows API, using the GDI API.
 
 It consisits of: 
 - A source file: [main.cpp](/Tic-Tac-Toe-win32/main.cpp)
